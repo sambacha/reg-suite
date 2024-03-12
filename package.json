@@ -1,0 +1,16 @@
+{
+  "name": "reg-suite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "accept_visual_regression.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minimatch": "^9.0.3",
+    "ts-node": "^10.9.2"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "reg-suit-container",
+  "version": "1.0.0",
+  "private": true,
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "reg-suit": "^0.14.3",
+    "reg-suit-core": "^0.14.3",
+    "reg-suit-interface": "^0.14.2"
+  }
+}
